@@ -1,5 +1,0 @@
-sa
-smart
-yap2\SQLExpress
-ACSS
-Data Source=yap2\SQLExpress;user=sa;password=smart;database=ACSS
