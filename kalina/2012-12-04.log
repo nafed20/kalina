@@ -1,0 +1,7 @@
+16:05:54   
+16:05:54   *** EXCEPTION ***
+16:05:54   Thread was interrupted from a waiting state.
+16:05:54      at System.Threading.Thread.SleepInternal(Int32 millisecondsTimeout)
+   at Kalina.Managed.EivMng.MessagesHandlingRun()
+16:05:54   *** EXCEPTION ***
+16:05:54   
